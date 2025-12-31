@@ -1,0 +1,168 @@
+{
+  "version": 1,
+  "base_track": "Russian Roulette",
+  "base_artist": "Porter Robinson",
+  "createdAt": "2025-12-31T13:03:07.138697Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Russian Roulette",
+      "artist": "Ice MC",
+      "has_synced": true,
+      "path": "select/01_Russian_Roulette_Ice_MC.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Russian Roulette",
+      "artist": "Yngwie J. Malmsteen’s Rising Force",
+      "has_synced": true,
+      "path": "select/02_Russian_Roulette_Yngwie_J._Malmsteen’s_Rising_Force.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Russian Roulette",
+      "artist": "Hot Water Music",
+      "has_synced": true,
+      "path": "select/03_Russian_Roulette_Hot_Water_Music.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Russian Roulette",
+      "artist": "Rihanna",
+      "has_synced": true,
+      "path": "select/04_Russian_Roulette_Rihanna.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Russian Roulette",
+      "artist": "Rihanna",
+      "has_synced": true,
+      "path": "select/05_Russian_Roulette_Rihanna.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Russian Roulette (Chew Fu \"Black Russian\" Fix) [Dub]",
+      "artist": "Rihanna",
+      "has_synced": false,
+      "path": "select/06_Russian_Roulette_(Chew_Fu__Black_Russian__Fix)_[Dub]_Rihanna.txt"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Russian Roulette (Chew Fu Black Russian Dub)",
+      "artist": "Rihanna",
+      "has_synced": false,
+      "path": "select/07_Russian_Roulette_(Chew_Fu_Black_Russian_Dub)_Rihanna.txt"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Russian Roulette (Chew Fu \"Black Russian\" Fix) [Extended]",
+      "artist": "Rihanna",
+      "has_synced": false,
+      "path": "select/08_Russian_Roulette_(Chew_Fu__Black_Russian__Fix)_[Extended]_Rihanna.txt"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Russian Roulette (Chew Fu Black Russian Extended Mix)",
+      "artist": "Rihanna",
+      "has_synced": false,
+      "path": "select/09_Russian_Roulette_(Chew_Fu_Black_Russian_Extended_Mix)_Rihanna.txt"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Russian Roulette (Chew Fu \"Black Russian\" Fix) [Radio]",
+      "artist": "Rihanna",
+      "has_synced": false,
+      "path": "select/10_Russian_Roulette_(Chew_Fu__Black_Russian__Fix)_[Radio]_Rihanna.txt"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Russian Roulette (Donni Hotwheel Remix)",
+      "artist": "Rhianna",
+      "has_synced": false,
+      "path": "select/11_Russian_Roulette_(Donni_Hotwheel_Remix)_Rhianna.txt"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Russian Roulette (Donni Hotwheel Radio Mix)",
+      "artist": "Rihanna",
+      "has_synced": false,
+      "path": "select/12_Russian_Roulette_(Donni_Hotwheel_Radio_Mix)_Rihanna.txt"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Russian Roulette (Jump Smokers radio mix)",
+      "artist": "Rhianna",
+      "has_synced": false,
+      "path": "select/13_Russian_Roulette_(Jump_Smokers_radio_mix)_Rhianna.txt"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Russian Roulette (Main)",
+      "artist": "Rihanna",
+      "has_synced": true,
+      "path": "select/14_Russian_Roulette_(Main)_Rihanna.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "Russian Roulette (Tony Moran and Warren Rigg Pounding Club Remix)",
+      "artist": "Rihanna",
+      "has_synced": false,
+      "path": "select/15_Russian_Roulette_(Tony_Moran_and_Warren_Rigg_Pounding_Club_Remix)_Rihanna.txt"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "Russian Roulette (Tony Moran and Warren Rigg Radio Mix)",
+      "artist": "Rihanna",
+      "has_synced": false,
+      "path": "select/16_Russian_Roulette_(Tony_Moran_and_Warren_Rigg_Radio_Mix)_Rihanna.txt"
+    },
+    {
+      "id": "lrclib_17",
+      "source": "lrclib",
+      "title": "Russian Roulette",
+      "artist": "Kiss",
+      "has_synced": false,
+      "path": "select/17_Russian_Roulette_Kiss.txt"
+    },
+    {
+      "id": "lrclib_18",
+      "source": "lrclib",
+      "title": "Russian Roulette",
+      "artist": "Yngwie Malmsteen",
+      "has_synced": false,
+      "path": "select/18_Russian_Roulette_Yngwie_Malmsteen.txt"
+    },
+    {
+      "id": "lrclib_19",
+      "source": "lrclib",
+      "title": "러시안 룰렛 Russian Roulette",
+      "artist": "Red Velvet",
+      "has_synced": true,
+      "path": "select/19_러시안_룰렛_Russian_Roulette_Red_Velvet.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Russian Roulette",
+      "artist": "Porter Robinson",
+      "has_synced": false,
+      "path": "select/pl_01_Russian_Roulette_Porter_Robinson.txt"
+    }
+  ]
+}
